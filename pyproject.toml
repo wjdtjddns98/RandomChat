@@ -9,6 +9,7 @@ dependencies = [
     "fastapi>=0.122.0",
     "isort>=7.0.0",
     "mypy>=1.18.2",
+    "uvicorn>=0.38.0",
 ]
 
 [dependency-groups]
