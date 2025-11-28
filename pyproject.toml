@@ -9,3 +9,8 @@ dependencies = [
     "isort>=7.0.0",
     "mypy>=1.18.2",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+]
